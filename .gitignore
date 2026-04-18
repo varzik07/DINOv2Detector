@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-checkpoints/
-*.zip
-*.ipynb
-extract_notebook.py
-extracted_data.py
-.env
